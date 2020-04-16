@@ -1,0 +1,60 @@
+film;revenue;budget;popularity;vote.average;genre_txt;id
+;;;;;;Genre
+Action;;;;;Genre;Action
+Adventure;;;;;Genre;Adventure
+Animation;;;;;Genre;Animation
+Comedy;;;;;Genre;Comedy
+Crime;;;;;Genre;Crime
+Drama;;;;;Genre;Drama
+History;;;;;Genre;History
+Horror;;;;;Genre;Horror
+Romance;;;;;Genre;Romance
+Jurassic Park;920100000;6.3e+07;14221;7.9;Adventure;329
+Last Action Hero;137298489;8.5e+07;11275;6.3;Adventure;9593
+Dennis the Mece;117270765;3.5e+07;9174;5.6;Comedy;12139
+In the Line of Fire;176997168;4,00E+07;8832;6.9;Action;9386
+Dragon Ball Z Bojack Unbound;0;0;10101;6.7;Action;39105
+Free Willy;153698625;2,00E+07;8679;6.1;Adventure;1634
+Hocus Pocus;39514713;2.8e+07;8244;6.9;Comedy;10439
+Coneheads;0;0;9.51;5.1;Comedy;9612
+Robin Hood Men in Tights;35739755;2,00E+07;12776;6.6;Comedy;8005
+Rising Sun;107198790;4,00E+07;9455;6.1;Action;7007
+The Fugitive;368875760;4.4e+07;15672;7.4;Adventure;5503
+The Secret Garden;0;0;8171;7.3;Drama;11236
+Hard Target;74189677;1.8e+07;11171;6.2;Action;2019
+True Romance;12281551;12500000;13777;7.6;Action;319
+Striking Distance;0;30;7876;5.8;Action;11074
+Cool Runnings;154856263;1.4e+07;9681;7;Comedy;864
+Demolition Man;159055768;5.7e+07;12205;6.5;Crime;9739
+The Nightmare Before Christmas;75634409;1.8e+07;13965;7.8;Animation;9479
+The Beverly Hillbillies;0;0;7963;5.4;Comedy;11041
+The Three Musketeers;53898845;3,00E+07;8277;6.3;Action;10057
+Addams Family Values;48919043;4.7e+07;20045;6.7;Comedy;2758
+Mrs Doubtfire;441286195;2.5e+07;14582;7.2;Comedy;788
+Schindlers List;321365567;2.2e+07;19082;8.6;Drama;424
+Sister Act 2 Back in the Habit;57319029;3.8e+07;10605;6.3;Comedy;6279
+Beethovens 2nd;118243066;1.5e+07;9;5.2;Comedy;10438
+Whats Eating Gilbert Grape;10032765;1.1e+07;15531;7.6;Drama;1587
+The Voyeur;0;0;9941;4.4;Drama;27066
+The Legend of Drunken Master;11555430;1,00E+07;9973;7.3;Action;12207
+Ace Ventura Pet Detective;107217396;1.5e+07;16617;6.5;Comedy;3049
+Four Weddings and a Funeral;254700832;6,00E+06;12323;6.7;Comedy;712
+Dragon Ball Z Broly Ã¢Â€Â Second Coming;0;0;11036;6.5;Action;44251
+ked Gun 33Ã¢ÂÂ The Fil Insult;51132598;3,00E+07;13062;6.5;Comedy;36593
+D2 The Mighty Ducks;45610410;0;8328;5.9;Action;11164
+The Lion King;987483777;4.5e+07;24596;8.3;Animation;8587
+Beverly Hills Cop III;119208989;5,00E+07;9.52;5.8;Action;306
+The Flintstones;341631208;4.6e+07;10195;5.2;Comedy;888
+Three Colors Red;0;0;9294;8.1;Drama;110
+Speed;350448145;3,00E+07;13309;7;Action;1637
+Wolf;131002597;7,00E+07;9521;6.1;Drama;10395
+Forrest Gump;677387716;5.5e+07;24907;8.4;Comedy;13
+Chungking Express;0;0;10372;8.1;Drama;11104
+True Lies;378882411;1.15e+08;15183;6.9;Action;36955
+The Client;117615211;4.5e+07;7481;6.6;Drama;10731
+The Mask;351583407;2.3e+07;27016;6.8;Romance;854
+Clear and Present Danger;215887717;6.2e+07;9395;6.6;Action;9331
+The Little Rascals;67308282;0;7327;6.4;Romance;10897
+tural Born Killers;50282766;3.4e+07;13778;7.1;Crime;241
+Quiz Show;0;0;7.23;7.3;History;11450
+Pulp Fiction;214179088;8,00E+06;28266;8.5;Crime;680
