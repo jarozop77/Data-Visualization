@@ -1995,7 +1995,7 @@ n,film,revenue,budget,language,popularity,vote.average,vote.count,release.date,g
 1994,Ip Man 4 The Finale,0,5.2e+07,cn,49785,6,349,2019-12-20,28,NA,Action,2019,14-19,10-19,7.7160033436348,1,449924
 1995,Spies in Disguise,0,1.11e+08,en,69.67,7.3,305,2019-12-24,28,PG,Action,2019,14-19,10-19,8.04532297878666,1,431693
 1996,1917,364760929,1e+08,en,135899,8,3132,2019-12-25,28,R,Action,2019,14-19,10-19,8,8.56200831313104,530915
-1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Genre
+1997,,,,,,,,,,,,,,,,Genre
 1998,Action,NA,NA,NA,NA,NA,NA,NA,NA,NA,Genre,NA,NA,NA,NA,NA,Action
 1999,Adventure,NA,NA,NA,NA,NA,NA,NA,NA,NA,Genre,NA,NA,NA,NA,NA,Adventure
 2000,Animation,NA,NA,NA,NA,NA,NA,NA,NA,NA,Genre,NA,NA,NA,NA,NA,Animation
